@@ -1,9 +1,9 @@
 {
-  "name": "ide-flow",
+  "name": "ide-flow-update",
   "main": "./lib/ide-flow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom.io IDE support for Facebook Flow",
-  "repository": "https://github.com/lukehoban/atom-ide-flow",
+  "repository": "https://github.com/LeonFedotov/atom-ide-flow.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
@@ -19,5 +19,5 @@
         "1.1.0": "provide"
       }
     }
-  },
+  }
 }
